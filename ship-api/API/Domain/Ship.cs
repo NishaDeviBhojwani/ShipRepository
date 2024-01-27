@@ -7,9 +7,5 @@
         public string Code { get; set; } = String.Empty;
         public decimal Length { get; set; }
         public decimal Width { get; set; }
-        public DateTime CreatedDateTime { get; set; }
-        public DateTime ModifiedDateTime { get; set; }
-        public bool IsDeleted { get; set; }
     }
-
 }

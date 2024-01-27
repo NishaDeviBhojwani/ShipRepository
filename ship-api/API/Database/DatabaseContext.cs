@@ -1,6 +1,5 @@
 ﻿using API.Domain;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
 
 namespace API.Database
 {
