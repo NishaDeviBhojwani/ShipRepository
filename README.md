@@ -10,6 +10,9 @@ Ship Model:<br />
 -> Width (in meters)<br />
 -> Code (a string with a format of AAAA-1111-A1 where A is any character from the Latin alphabet and 1 is a number from 0 to 9).<br />
 
+### Prerequisites
+-> .Net 8 https://dotnet.microsoft.com/en-us/download/dotnet/8.0 <br />
+
 ### Packages Used
 -> FluentValidation<br />
 -> Microsoft.EntityFrameworkCore.InMemory<br />
